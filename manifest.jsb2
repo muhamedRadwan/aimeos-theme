@@ -1,0 +1,22 @@
+{
+	"projectName": "aimos",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "aimos CSS",
+		"file": "aimos.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/admin/jqadm/"
+		}]
+	}, {
+		"name": "aimos JS",
+		"file": "aimos.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/admin/jqadm/"
+		}]
+	}],
+	"resources" : []
+}
